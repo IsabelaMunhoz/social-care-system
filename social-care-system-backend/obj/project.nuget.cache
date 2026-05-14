@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PpRijm7gfw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IsabelaMunhoz\\Documents\\Project\\Social-care-system\\social-care-system-backend\\social-care-system-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IsabelaMunhoz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\IsabelaMunhoz\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
